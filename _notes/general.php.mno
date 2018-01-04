@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_district" value="name:name;datatype:string" />
+	<infoitem key="UD_region" value="name:region_id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_data" value="name:feb;datatype:int,name:mar;datatype:int,name:apr;datatype:int,name:nov;datatype:int,name:dec;datatype:int,name:jan;datatype:int,name:name;datatype:string" />
+</info>

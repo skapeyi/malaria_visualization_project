@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.php" server="C:/xampp/htdocs/ihme/" local="130489844448462058" remote="130489844440000000" />
+<file name="dashboard.php" server="C:/xampp/htdocs/ihme/" local="130489939620509400" remote="130489939620000000" />
+<file name="menu.xml" server="C:/xampp/htdocs/ihme/" local="130490219006660353" remote="130490219000000000" />
+<file name="region.php" server="C:/xampp/htdocs/ihme/" local="130489942095210945" remote="130489942090000000" />
+<file name="district.php" server="C:/xampp/htdocs/ihme/" local="130489990803606906" remote="130489990800000000" />
+<file name="month.php" server="C:/xampp/htdocs/ihme/" local="130489947530601831" remote="130489947530000000" />
+<file name="monthc.php" server="C:/xampp/htdocs/ihme/" local="130490255905080822" remote="130490255900000000" />
+<file name="regionc.php" server="C:/xampp/htdocs/ihme/" local="130492896353967319" remote="130492896350000000" />
+<file name="dashboard.php" server="C:/xampp/htdocs/mvp/" local="130498820010559155" remote="130498820010000000" />
+<file name="district.php" server="C:/xampp/htdocs/mvp/" local="130498830939284242" remote="130498830930000000" />
+<file name="menu.xml" server="C:/xampp/htdocs/mvp/" local="130498791239623552" remote="130498791230000000" />
+<file name="month.php" server="C:/xampp/htdocs/mvp/" local="130495408367638161" remote="130495408360000000" />
+<file name="monthc.php" server="C:/xampp/htdocs/mvp/" local="130495408348207050" remote="130495408340000000" />
+<file name="region.php" server="C:/xampp/htdocs/mvp/" local="130498776056825145" remote="130498776050000000" />
+<file name="regionc.php" server="C:/xampp/htdocs/mvp/" local="130495408308194761" remote="130495408300000000" />
+<file name="population.php" server="C:/xampp/htdocs/mvp/" local="130495466937118144" remote="130495466930000000" />
+<file name="regiond.php" server="C:/xampp/htdocs/mvp/" local="130495408298374200" remote="130495408290000000" />
+<file name="index.php" server="C:/xampp/htdocs/mvp/" local="130493465907205059" remote="130493465900000000" />
+<file name="home.php" server="C:/xampp/htdocs/mvp/" local="130498798455506277" remote="130498798450000000" />
+<file name="search-region.php" server="C:/xampp/htdocs/mvp/" local="130498794477338738" remote="130498794470000000" />
+<file name="case-find.php" server="C:/xampp/htdocs/mvp/" local="130498796479523257" remote="130498796470000000" />
+<file name="region-find.php" server="C:/xampp/htdocs/mvp/" local="130498807380956783" remote="130498807380000000" />
+<file name="search-case.php" server="C:/xampp/htdocs/mvp/" local="130498796955860502" remote="130498796950000000" />
+<file name="search-district.php" server="C:/xampp/htdocs/mvp/" local="130498794335490625" remote="130498794330000000" />
+<file name="district-find.php" server="C:/xampp/htdocs/mvp/" local="130498808877602386" remote="130498808870000000" />
+<file name="district-region.php" server="C:/xampp/htdocs/mvp/" local="130498805772524786" remote="130498805770000000" />
+<file name="malaria-burdden.php" server="C:/xampp/htdocs/mvp/" local="130498817906538812" remote="130498817900000000" />
+<file name="cases-per1k.php" server="C:/xampp/htdocs/mvp/" local="130498830636876946" remote="130498830630000000" />
+</dwsync>

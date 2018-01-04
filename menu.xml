@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<menu>
+	<item id="MVP" text="MVP">
+		<item id="Restart" text="Restart"><href><![CDATA[dashboard?p=mvp]]></href></item>
+	</item>
+	<item id="top1" type="separator"/>	
+	<item id="Data" text="Data" img="data.gif">
+		<item id="region" text="Region"><href><![CDATA[dashboard?p=region]]></href></item>
+		<item id="sep1" type="separator"/>
+		<item id="district" text="District"><href><![CDATA[dashboard?p=district]]></href></item>
+	</item>
+	<item id="top2" type="separator"/>	
+	<item id="search" text="Search">
+		<item id="searchcase" text="Cases between range"><href><![CDATA[dashboard?p=search.case]]></href></item>
+		<item id="searchdistrict" text="Cases by district"><href><![CDATA[dashboard?p=search.district]]></href></item>
+		<item id="sep2" type="separator"/>
+		<item id="searchregion" text="Cases by region"><href><![CDATA[dashboard?p=search.region]]></href></item>
+	</item>	
+	<item id="top3" type="separator"/>		
+	<item id="analysis" text="Analysis" img="chart.gif">
+		<item id="quarter" text="Malaria Cases in Quarters" img="chart.gif"><href><![CDATA[monthc]]></href></item>
+		<item id="poplation_case" text="Malaria Cases by Population"><href><![CDATA[population]]></href></item>
+		<item id="sep3" type="separator"/>
+		<item id="region_case" text="Malaria Cases by Region"><href><![CDATA[regionc]]></href></item>
+		<item id="region_district" text="Districts within Region"><href><![CDATA[regiond]]></href></item>
+	</item>	
+</menu>

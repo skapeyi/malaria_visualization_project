@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kara" value="name:Total;datatype:real" />
+	<infoitem key="UD_westnile" value="name:Total;datatype:real" />
+	<infoitem key="UD_north" value="name:Total;datatype:real" />
+	<infoitem key="UD_eastern" value="name:Total;datatype:real" />
+	<infoitem key="UD_eastcentral" value="name:Total;datatype:real" />
+	<infoitem key="UD_southwest" value="name:Total;datatype:real" />
+	<infoitem key="UD_central2" value="name:Total;datatype:real" />
+	<infoitem key="UD_central1" value="name:Total;datatype:real" />
+	<infoitem key="UD_western" value="name:Total;datatype:real" />
+	<infoitem key="UD_kla" value="name:Total;datatype:real" />
+</info>

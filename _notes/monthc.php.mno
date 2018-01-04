@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_feb" value="name:Total;datatype:real" />
+	<infoitem key="UD_mar" value="name:Total;datatype:real" />
+	<infoitem key="UD_apr" value="name:Total;datatype:real" />
+	<infoitem key="UD_nov" value="name:Total;datatype:real" />
+	<infoitem key="UD_jan" value="name:Total;datatype:real" />
+	<infoitem key="UD_dec" value="name:Total;datatype:real" />
+</info>
